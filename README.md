@@ -1,0 +1,5 @@
+# EByte_LoRa_E220 Library for Japanese Standards
+
+本ライブラリはオリジナルのEByte_LoRa_E220_Series_Libraryを日本の技適がとれたモジュールに合わせて部改変したものです。Arduinoのスケッチ部分は \hoboNicolaLibrary\examples にあります。
+
+シールドの回路例や実装した写真などは/assetsフオルダーの内容を参考にして下さい。
